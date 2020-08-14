@@ -21,8 +21,8 @@ My interests include:
 
 
 <a href="https://github.com/kalek-ae/kalek-ae">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kalek-ae&count_private=true&show_icons=true&theme=graywhite&hide=issues" style="width: 50%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kalek-ae&count_private=true&show_icons=true&theme=graywhite&hide=issues" style="max-width: 50%" />
 </a>
 <a href="https://github.com/kalek-ae/kalek-ae">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalek-ae&layout=compact" style="width: 45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalek-ae&layout=compact" style="max-width: 45%" />
 </a>
